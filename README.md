@@ -1,2 +1,2 @@
 # Cube-Texture
-Cube-Texture by html,javascript,webgl-texture
+Rotating Cube by html,javascript,webgl-texture
